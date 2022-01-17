@@ -1,7 +1,7 @@
 # IBM ACE CI/CD with Jenkins
 
->**IMPORTANT NOTE:** This document is based on the version CP4I 2020.3.1. From version 2021.2.1 on, it is possible to use an external repository for the bar files and therefore simplify the procedure.
-
+>**IMPORTANT NOTE:** This document is based on the version CP4I 2020.3.1. From version 2021.2.1 on, it is possible to use an external repository for the bar files and therefore to avoid creating custom images and simplify the procedure.
+Please see the following example: [ACE_Tekton_Operators](https://github.com/isalkovic/ACE_Tekton_Operators)
 ---
 
 **Table of contents**
